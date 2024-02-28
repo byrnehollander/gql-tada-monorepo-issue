@@ -1,0 +1,7 @@
+{
+  "name": "gql-tada-monorepo-issue",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
